@@ -1,2 +1,2 @@
-# Image Style Transfer 
+# Image Style Transfer Model using Convolutional Neural Network
 
